@@ -1,11 +1,14 @@
+<!DOCTYPE html>
 <html>
-    <head>
-           <title>Los tres mejores jugadores de futbol de la historia</title>
-    </head>
-    <body>
+<head>
+         <title>Los tres mejores jugadores de futbol de la historia</title>
+</head>
+<body>
             <h1>Los tres mejores jugadores de futbol de la historia</h1>
             <p>En primer lugar...</p>
             <p>Lionel Messi</p>
             <img src=¨img/https://github.com/enrib82/2.1-Primer-disseny-web/blob/master/messi.jpg?raw=true/>
-    </body>
+            <a href="https://messi.com/>
+            
+</body>
 </html>
